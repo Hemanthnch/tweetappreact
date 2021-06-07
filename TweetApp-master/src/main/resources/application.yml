@@ -1,0 +1,9 @@
+amazon:
+  aws:
+    accesskey: ''
+    region: us-east-2
+    secretkey: ''
+  dynamodb:
+    endpoint: 'dynamodb.us-east-2.amazonaws.com'
+server:
+  port: 8080
